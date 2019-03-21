@@ -1,0 +1,7 @@
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\obj\Debug\Abstract Factory.csprojAssemblyReference.cache
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+C:\Users\yurai\source\repos\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb

@@ -43,6 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstracts\AbstractBottle.cs" />
+    <Compile Include="Abstracts\AbstractCover.cs" />
+    <Compile Include="Abstracts\AbstractFactory.cs" />
+    <Compile Include="Abstracts\AbstractLable.cs" />
+    <Compile Include="Abstracts\AbstractWater.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="CocaCola\CocaColaFactory.cs" />
+    <Compile Include="CocaCola\CocaColaBottle.cs" />
+    <Compile Include="CocaCola\CocaColaCover.cs" />
+    <Compile Include="CocaCola\CocaColaLable.cs" />
+    <Compile Include="CocaCola\CocaColaWater.cs" />
+    <Compile Include="PepsiCola\PepsiColaBottle.cs" />
+    <Compile Include="PepsiCola\PepsiColaCover.cs" />
+    <Compile Include="PepsiCola\PepsiColaFactory.cs" />
+    <Compile Include="PepsiCola\PepsiColaLable.cs" />
+    <Compile Include="PepsiCola\PepsiColaWater.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
