@@ -1,0 +1,7 @@
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\bin\Debug\Factory Method.exe.config
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\obj\Debug\Factory Method.csprojAssemblyReference.cache
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\yurai\source\repos\TestPatterns\Factory Method\obj\Debug\Factory Method.pdb
