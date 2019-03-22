@@ -1,5 +1,4 @@
 ﻿using Factory_Method.Abstracts;
-using System;
 
 namespace Factory_Method
 {
